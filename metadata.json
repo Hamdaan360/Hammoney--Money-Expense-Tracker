@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Finance - Money & Expense Tracker",
+  "description": "Comprehensive money management with expense tracking, weekly & monthly visual reports, budgets, and clean URL navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
